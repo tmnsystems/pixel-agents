@@ -1,6 +1,6 @@
 ---
 name: qa-protocol
-description: The mandatory Quality Assurance protocol for verifying code and UI changes. Agents read this during the initialize engine sequence.
+description: The mandatory Quality Assurance protocol for verifying code and UI changes. Agents read this during the initialize_engine sequence.
 ---
 
 # QA Protocol: Visual Verification Mandate

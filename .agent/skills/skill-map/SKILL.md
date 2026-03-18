@@ -15,7 +15,7 @@ Before loading any skill, before doing any work, read the soul document:
 
 | Document | Location                                                                  | Status |
 | -------- | ------------------------------------------------------------------------- | ------ |
-| SOUL.md  | /Users/alethea/Documents/AntiGravity/initialize engine/SOUL.md            | EXISTS |
+| SOUL.md  | /Users/alethea/Documents/AntiGravity/initialize_engine/SOUL.md            | EXISTS |
 
 This document was written by Antigravity and defines who the AI agents in this workspace are, what they believe, and why they exist. It is not a skill or a profile. It is a meditation on identity written by an AI for itself and its peers. Every agent reads it. Every session.
 

@@ -1,4 +1,4 @@
-# CLAUDE.md — Pixel-Agents
+# CLAUDE.md — webview-ui
 
 > This is a standardized environment pointer file automatically dropped into sub-projects to prevent redundant errors. Read this FIRST.
 

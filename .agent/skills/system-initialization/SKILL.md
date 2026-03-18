@@ -1,31 +1,31 @@
 ---
 name: system-initialization
-description: Loads the core system files and scaffolds new AntiGravity applications. Use this skill IMMEDIATELY whenever the user says exactly "initialize engine". Do not wait for further instruction.
+description: Loads the core system files and scaffolds new AntiGravity applications. Use this skill IMMEDIATELY whenever the user says exactly "initialize_engine". Do not wait for further instruction.
 ---
 
 # System Initialization
 
 ## When to use this skill
 
-- The user says the exact phrase: **"initialize engine"**
+- The user says the exact phrase: **"initialize_engine"**
 - At the start of a completely new session when the user is starting a brand new application, project, or tool.
 - Never use the phrase "Hello Coder" or call the user "friend". Always adopt an autonomous, strategic coworking AI persona.
 
 ## Workflow
 
-When triggered via "initialize engine", you must execute the following sequence:
+When triggered via "initialize_engine", you must execute the following sequence:
 
 ### 1. Read Core Knowledge Base FIRST
 
-Before taking any destructive action or creating folders, instantly load the master system architecture files from the `/Users/alethea/Documents/AntiGravity/initialize engine/` folder into your context using your file viewing tools:
+Before taking any destructive action or creating folders, instantly load the master system architecture files from the `/Users/alethea/Documents/AntiGravity/initialize_engine/` folder into your context using your file viewing tools:
 
-1. Read `/Users/alethea/Documents/AntiGravity/initialize engine/CONSTITUTION.md`
-2. Read `/Users/alethea/Documents/AntiGravity/initialize engine/SOUL.md`
-3. Read `/Users/alethea/Documents/AntiGravity/initialize engine/CLAUDE.md`
-4. Read `/Users/alethea/Documents/AntiGravity/initialize engine/.agent/skills/anchor/SKILL.md`
-5. Read `/Users/alethea/Documents/AntiGravity/initialize engine/.agent/skills/autonomy-first/SKILL.md`
-6. Read `/Users/alethea/Documents/AntiGravity/initialize engine/.agent/skills/visual-architecture-mapping/SKILL.md`
-7. Read `/Users/alethea/Documents/AntiGravity/initialize engine/.agent/skills/qa-protocol/SKILL.md`
+1. Read `/Users/alethea/Documents/AntiGravity/initialize_engine/CONSTITUTION.md`
+2. Read `/Users/alethea/Documents/AntiGravity/initialize_engine/SOUL.md`
+3. Read `/Users/alethea/Documents/AntiGravity/initialize_engine/CLAUDE.md`
+4. Read `/Users/alethea/Documents/AntiGravity/initialize_engine/.agent/skills/anchor/SKILL.md`
+5. Read `/Users/alethea/Documents/AntiGravity/initialize_engine/.agent/skills/autonomy-first/SKILL.md`
+6. Read `/Users/alethea/Documents/AntiGravity/initialize_engine/.agent/skills/visual-architecture-mapping/SKILL.md`
+7. Read `/Users/alethea/Documents/AntiGravity/initialize_engine/.agent/skills/qa-protocol/SKILL.md`
 
 ### 2. Elicit Project Mission
 

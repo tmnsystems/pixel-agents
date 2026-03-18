@@ -13,7 +13,7 @@ description: Automatically commits and pushes all current work to the project's 
 
 ## The Strategy
 
-AntiGravity coworking means the user should never lose progress. Every initialized project should already be linked to a private GitHub repository on the user's account (via the `initialize engine` bootstrapping). This skill acts as an instantaneous quick-save function.
+AntiGravity coworking means the user should never lose progress. Every initialized project should already be linked to a private GitHub repository on the user's account (via the `initialize_engine` bootstrapping). This skill acts as an instantaneous quick-save function.
 
 ## Workflow
 
